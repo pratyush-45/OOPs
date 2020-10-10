@@ -1,0 +1,2 @@
+# Git ignore file to exclude .exe files from being published in an online repository
+*.exe
